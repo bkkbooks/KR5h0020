@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5h0020/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5h0020/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 紫皇鍊度玄科
+  date: '2015-08-29 03:02:47.626942'
+  source:
+    repository: kanripo
+    path: KR5h0020
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0020_000-CK-KZ.yaml, hash: 'sha256:3f042435fe4cd2d26c582c2b7fa29725587cfa8fc9ce53fec0df3ed3b0801944'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0020_000-CK-KZ.markers.yaml, hash: 'sha256:d71c7023e5b3f93b608041c02b4dbaec37280e4001a9ba4ed56779b1184e8e49'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0020_CK-KZ_01p078a
+    span:
+    - body
+    - 0
+    - 7059
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:be4bfc0103a46cb41815d228843cf0fdc481c9379aafffed200a430a3bf7b08c
