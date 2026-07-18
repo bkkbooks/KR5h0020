@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5h0020_000-CK-KZ-jye.yaml, hash: 'sha256:bb8261b7e7a26db3ba44f9e2b76f5d5ae5095adec682f335a7b37871e547d554'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5h0020_000-CK-KZ-jye.markers.yaml, hash: 'sha256:e610a1ab6bd46eadfdd2605ae604b36e7c216693cd91dc4a6bf6a756de7b2612'}
+  - {seq: 0, role: markers, filename: assets/KR5h0020_000-CK-KZ-jye.markers.yaml, hash: 'sha256:842120e9b3c6a63a8e67322debaed3b71f192eddd3c1555e761a7b26058103c0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -36,4 +36,4 @@ table_of_contents:
   label: 紫皇鍊度玄科
   type: section
   level: 1
-hash: sha256:c8044ad4c71a7e87fc938c767f3451f78202483957e152f40da60520114a9fb0
+hash: sha256:8d926129bccab4004cc70800ce57cbeb9d48636bdff00a111c685c103c85051e
